@@ -1,4 +1,4 @@
-### Oie! Me chamo Camila Vergara e atualmente trabalho com desenvolvimento front-end! 👋
+### Oie! Eu sou a Camila Vergara e atualmente trabalho com desenvolvimento front-end! 👋
 
 <div align="center">
   <a href="https://github.com/rvergaracamila">
